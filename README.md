@@ -17,14 +17,9 @@ I'm a software engineering student currently diving deep into the world of C and
 
 ---
 
-### 📊 Github Stats
+### 🤝 Connect with me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-El-aroui&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-El-aroui&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</div>
-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-linkedin/)
 ---
 
 ### 📫 Contact Me
