@@ -20,13 +20,12 @@ I'm a software engineering student currently diving deep into the world of C and
 ### 📊 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-El-aroui&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-El-aroui&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </div>
 
 ---
 
 ### 📫 Contact Me
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **Email**: [your-email@student.1337.ma](mailto:your-email@student.1337.ma)
