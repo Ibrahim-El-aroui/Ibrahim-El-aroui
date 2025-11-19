@@ -16,7 +16,13 @@ I'm a software engineering student currently diving deep into the world of C and
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+### 🗓 My GitHub Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibrahim-El-aroui/Ibrahim-El-aroui/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibrahim-El-aroui/Ibrahim-El-aroui/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ibrahim-El-aroui/Ibrahim-El-aroui/output/github-contribution-grid-snake.svg" />
+</picture>
 ---
 
 ### 📫 Contact Me
