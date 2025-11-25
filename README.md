@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ibrahim! 👋
 
 ### 🚀 Student at 1337 Rabat (42 Network)
 
