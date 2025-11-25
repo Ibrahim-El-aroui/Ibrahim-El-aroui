@@ -24,6 +24,3 @@ I'm a software engineering student currently diving deep into the world of C and
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ibrahim-El-aroui/Ibrahim-El-aroui/output/github-contribution-grid-snake.svg" />
 </picture>
 ---
-
-### 📫 Contact Me
-- **Email**: [your-email@student.1337.ma](mailto:your-email@student.1337.ma)
